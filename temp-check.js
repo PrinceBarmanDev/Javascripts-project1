@@ -14,7 +14,6 @@ function checkTemperature(temperature) {
     return message;
 }
 
-// Test the function
 console.log(checkTemperature(15));
 console.log(checkTemperature(25));
 console.log(checkTemperature(35));
